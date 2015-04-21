@@ -80,6 +80,11 @@ div.img-div{
 .intro-header{
   background-image: url('../img/banner-bg.jpg');
 }
+
+.apparel-header{
+  background-image: url('../img/apparel.jpg');
+}
+
 .carousel-inner > .item > img {
     margin: 0 auto;
 }
@@ -146,6 +151,13 @@ text-align: center;
 
 .socialbottom {
   padding-left: 0;
+}
+
+.border_pic {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+  border: 3px solid #555;
 }
 
 >>>>>>> Stashed changes
